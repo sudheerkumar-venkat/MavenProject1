@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class FinbonacciSeries {
 
-	public static void main(String[] args) {
+	public static void FinbonacciSerie() {
 		// TODO Auto-generated method stub
 		
 		//print finboncci series for 1st 20 numbers

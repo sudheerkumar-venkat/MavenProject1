@@ -2,7 +2,7 @@ package org.example;
 
 public class IdentifyEventAndOddInArray {
 
-	public static void main(String[] args) {
+	public static void IdentifyEventAndOddInArray() {
 		// TODO Auto-generated method stub
 		
 		int a[] = {2,4,5,7,4,5};
