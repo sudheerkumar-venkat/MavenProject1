@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class DigitsInANumber {
 
-	public static void main(String[] args) {
+	public static void DigitsInANumber() {
 		// TODO Auto-generated method stub
 		
 		Scanner sc = new Scanner(System.in);
